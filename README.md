@@ -16,7 +16,7 @@ In this project, I analyze the price of cards from a trading card game based on 
 ### Data Used
 * Transaction data from TCG Players
 * Card Characterstic Data from TCG Players
-* Additional data on
+* Additional data...
 
 
 ### Tools Used
