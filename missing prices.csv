@@ -1,0 +1,438 @@
+Card Material,Description,Median,Name,Number,Rarity,TCG,URL,set,No Game Info/Price,_merge,Card Type,Category,Cost,Element,Job,Power
+Normal,"Choose 1 auto-ability. Cancel its effect. If the cancelled auto-ability triggered from a Forward, deal that Forward 8000 damage. ",,Amaterasu (Full Art),12-002H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xii/amaterasu-full-art,Opus XII,,left_only,Summon,FFEX,3.0,Fire,,
+Normal,"If you control 6 or more Characters, Ashe gains +2000 power and ""Ashe cannot be chosen by your opponent's abilities.""
+At the end of each of your turns, if you have cast 3 or more cards this turn, draw 1 card.",,Ashe (Full Art),12-037L,Legend,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xii/ashe-full-art,Opus XII,,left_only,Forward,XII,2.0,Wind,Princess,5000.0
+Normal,"The Forwards of cost 1 you control gain Haste.
+When Bartz forms a party and attacks, you may search for 1 Forward of cost 1 and play it onto the field. ",,Bartz (Full Art),12-052H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xii/bartz-full-art,Opus XII,,left_only,Forward,V DFF,4.0,Wind,Warrior of Light,8000.0
+Normal,"When Beatrix or a Job Knight enters your field, all the Forwards you control gain +2000 power until the end of the turn.
+[0]: During this turn, the cost required to cast your next Job Knight Forward is reduced by 2 (it cannot become 0). You can only use this ability during your turn and only once per turn.",,Beatrix (Full Art),12-103H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xii/beatrix-full-art,Opus XII,,left_only,Forward,IX,2.0,Water,Knight,5000.0
+Normal,"When Dragoon enters the field, you may reveal any number of Job Dragoon or Card Name Dragoon from your hand. When you reveal 1 or more, Dragoon gains Haste until the end of the turn. In addition, when you reveal 4 or more, choose 1 Forward. Break it. ",,Dragoon (Full Art),12-089C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xii/dragoon-full-art,Opus XII,,left_only,Forward,Special,3.0,Lightning,Standard Unit,7000.0
+Normal,"[Dull], return Esha'ntarl to its owner's hand: Play 1 Forward of cost 7 or less other than Card Name Esha'ntarl from your hand onto the field. You can only use this ability during your turn.",,Esha'ntarl (Full Art),12-022H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xii/eshantarl-full-art,Opus XII,,left_only,Forward,XI,4.0,Ice,Member of the Armathrwn Society,8000.0
+Normal,"Select up to 2 of the 4 following actions.
+""Choose 1 Light Forward or Dark Forward. Break it.""
+""Choose 1 Backup of cost 4 or more. Break it.""
+""Choose 1 Monster. Break it.""
+""Choose 1 Earth Forward of cost 2 on your Break Zone. Play it into the field [Dull].""",,Fenrir (Full Art),12-068H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xii/fenrir-full-art,Opus XII,,left_only,Summon,FFEX,5.0,Earth,,
+Foil,"You can only pay with CP produced by Earth Backups to play Graham from your hand onto the field.
+When Graham enters the field, choose 1 Forward opponent controls. Deal it 9000 damage.",0.5,Graham,12-060R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xii/graham,Opus XII,,left_only,Backup,FFL,3.0,Earth,Dark Knight,
+Normal,"When Krile enters the field, choose 1 Summon from either player's Break Zone. You can cast it this turn. If you cast it, remove that Summon from the game after use instead of putting it in the Break Zone.
+1[Rest]: Choose 1 Summon from either player's Break Zone. You can cast it this turn. If you cast it, remove that Summon from the game after use instead of putting it in the Break Zone.",,Krile (Full Art),12-061L,Legend,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xii/krile-full-art,Opus XII,,left_only,Forward,V,2.0,Earth,Warrior of Light,5000.0
+Normal,"When Lani enters the field, your opponent removes the top card of their deck from the game face down. You can look at it and/or cast it at any time you could normally cast it. The cost for casting it is reduced by 2 and can be paid using CP of any Element. ",,Lani (Full Art),12-018H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xii/lani-full-art,Opus XII,,left_only,Forward,IX,4.0,Fire,Headhunter,7000.0
+Foil,"When Leon enters the field, select 1 of the 2 following actions.
+""Choose 1 Forward. Dull it or Freeze it.""
+""Choose 1 Forward. Deal it 3000 damage.""",0.38,Leon,12-113C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xii/leon,Opus XII,,left_only,Forward,II Theatrhythm,2.0,Fire;Ice,Rebel,7000.0
+Normal,"When Locke enters the field, if you control 2 
+or more Category VI Characters other than Locke, your 
+opponent discards 1 card from his/her hand. 
+When Locke deals damage to your opponent, 
+your opponent discards 1 card from his/her hand.
+Mirage Dive [S]: Locke cannot be blocked this turn.
+
+
+",,Locke (Full Art Reprint),4-048L,Legend,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xii/locke-full-art-reprint,Opus XII,,left_only,Forward,VI,3.0,Ice,Treasure Hunter,7000.0
+Normal,"When Minwu enters the field, reveal the top 5 cards of your deck. Add 1 Summon among them to your hand and return the other cards to the bottom of your deck in any order.
+When Minwu attacks, you may cast 1 Summon of cost 4 or less from your hand without paying the cost.",,Minwu (Full Art Reprint),6-123L,Legend,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xii/minwu-full-art-reprint,Opus XII,,left_only,Forward,II,4.0,Water,Mage,7000.0
+Normal,"When Ninja enters the field, choose 1 Forward. It gains ""When this Forward attacks, choose 1 Forward. Deal it 5000 damage."" until the end of the turn.",,Ninja (Full Art),12-013C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xii/ninja-full-art,Opus XII,,left_only,Backup,Special,2.0,Fire,Standard Unit,
+Normal,"When Noctis enters the field, choose 1 Category XV Forward other than Card Name Noctis in your Break Zone. Add it to your hand.
+When Noctis forms a party and attacks, until the end of the turn, all the Forwards you control gain +2000 power and Haste.",,Noctis (Full Art),12-121R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xii/noctis-full-art,Opus XII,,left_only,Forward,XV DFF,3.0,Earth;Lightning,Prince,7000.0
+Normal,"When Princess Goblin enters the field, you may search for 1 Light Forward and add it to your hand. 
+When a Light Forward enters your field, put Princess Goblin into the Break Zone.",,Princess Goblin (Full Art),12-008R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xii/princess-goblin-full-art,Opus XII,,left_only,Backup,World of Final Fantasy,2.0,Fire,Goblin,
+Normal,"Quacho Queen is also a Monster in all situations. When Quacho Queen enters the field, choose 1 Monster of cost 2 or less in your Break Zone. Add it to your hand. If it is also a Forward, play it onto the field instead.",,Quacho Queen (Full Art),12-096H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xii/quacho-queen-full-art,Opus XII,,left_only,Forward,World of Final Fantasy,4.0,Water,Queen,8000.0
+Normal,"EX BURST When Relm enters the field, choose 1 Character without additional copies other than Relm. You may search for 1 Character with the same name and add it to your hand.",,Relm EX (Full Art),12-106R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xii/relm-ex-full-art,Opus XII,,left_only,Forward,VI,4.0,Water,Pictomancer,5000.0
+Normal,"When Scholar enters the field, choose up to 2 active Forwards you control. Dull them. Then, draw 1 card for each Forward you have dulled due to this ability.",,Scholar (Full Art),12-093C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xii/scholar-full-art,Opus XII,,left_only,Backup,Special,4.0,Water,Standard Unit,
+Normal,"When Selh'teus enters the field, remove up to 5 Fire Forwards and/or Ice Forwards in your Break Zone from the game. Then, reveal the top 5 cards of your deck. Play 1 Forward of cost equal to or less than the number of removed cards among them onto the field and return the other cards to the bottom of your deck in any order. ",,Selh'teus (Full Art),12-112L,Legend,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xii/selhteus-full-art,Opus XII,,left_only,Forward,XI,4.0,Fire;Ice,Kuluu,7000.0
+Normal,"If Shantotto is on the field, it gains Elements of Fire, Ice, Wind, Earth, Lightning and Water.When Shantotto enters the field, remove all the Forwards from the game.",,Shantotto (Full Art Reprint),1-107L,Legend,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xii/shantotto-full-art-reprint,Opus XII,,left_only,Backup,Dissidia XI,7.0,Earth,Mage,
+Foil,"When you cast a Summon, you may put Summoner into the Break Zone. When you do so, choose 1 Forward. Dull it and Freeze it.",0.5,Summoner,12-031C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xii/summoner,Opus XII,,left_only,Backup,XIV,2.0,Ice,Standard Unit,
+Normal,"Brave
+At the end of each of your turns, reveal the top 5 cards of your deck. Add 1 Job Samurai or Card Name Samurai among them to your hand and return the other cards to the bottom of your deck in any order. 
+When Tenzen leaves the field, choose 1 Job Samurai or Card Name Samurai of cost 3 or less in your Break Zone. Add it to your hand.",,Tenzen (Full Art),12-012L,Legend,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xii/tenzen-full-art,Opus XII,,left_only,Forward,XI,6.0,Fire,Samurai,9000.0
+Normal,"The Ice Forwards other than Ulmia you control gain +1000 power.
+Damage 3 – [Dull]: Choose 1 Ice Forward. It gains +2000 power until the end of the turn.
+Damage 5 – [Dull]: Choose 1 Ice Forward. Until the end of the turn, it gains +2000 power, Haste, First Strike and Brave.",,Ulmia (Full Art),12-020R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xii/ulmia-full-art,Opus XII,,left_only,Forward,XI,2.0,Ice,Bard,5000.0
+Normal,"When White Mage enters the field, choose up to 3 Backups you control. If you have cast 3 or more cards this turn, activate them.",,White Mage (Full Art),12-043C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xii/white-mage-full-art,Opus XII,,left_only,Backup,Special,2.0,Wind,Standard Unit,
+Normal,"When Bel Dat enters the field, you may search 1 Job Standard Unit Category FFC Forward and add it to your hand.
+When Bel Dat deals damage to your opponent, if you control a Category FFCC Forward other than Bel Dat, draw 1 card.",,Bel Dat (Full Art),11-058H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xi/bel-dat-full-art,Opus XI,,left_only,Forward,FFCC,4.0,Wind,Thief,8000.0
+Normal,Dull 1 active Card Name Cecil Forward and 1 active Card Name Rosa Forward: Play Ceodore onto the field. You can only use this ability during your turn and if Ceodore is in the Break Zone.,,Ceodore (Full Art),11-117R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xi/ceodore-full-art,Opus XI,,left_only,Forward,IV,4.0,Water,Prince,8000.0
+Normal,"When Chaos enters the field, choose 1 Forward of cost 5 or more in your Break Zone. You may pay X. When you do so, if its cost is [X], play it onto your field.
+[3], remove Chaos from the game: Choose 1 Character opponent controls. Remove it from the game.
+",,Chaos (Full Art),11-129H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xi/chaos-full-art,Opus XI,,left_only,Backup,I,1.0,Dark,Chaos,
+Normal,"When Cloud enters the field, you may search for 1 Category VII Character and add it to your hand.
+[3], remove the top 7 cards of your deck from the game: Choose 1 Forward. Break it. You can only use this ability during your Main Phase, and only once per turn.
+Damage 5 — Cloud gains +2000 power.",,Cloud - 11-127L (Full Art),11-127L,Legend,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xi/cloud-11-127l-full-art,Opus XI,,left_only,Forward,VII,4.0,Light,SOLDIER,7000.0
+Normal,"[Dull], put 1 Category VII Forward into the Break Zone: Search for 1 Forward that costs 1 CP more than the Forward put into the Break Zone and play it onto the field. You can only use this ability during your Main Phase.",,Cloud - 11-136S (Full Art),11-136S,Starter,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xi/cloud-11-136s-full-art,Opus XI,,left_only,Forward,VII,2.0,Earth,SOLDIER,5000.0
+Normal,"When Dadaluma enters the field, Dadaluma deals you 1 point of damage.
+Damage 3 -- Dadaluma gains Brave and ""Dadaluma cannot become dull by your opponent's Summons or abilities.""",,Dadaluma (Full Art),11-011R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xi/dadaluma-full-art,Opus XI,,left_only,Forward,VI,2.0,Fire,Martial Artist,8000.0
+Normal,"When Doned enters the field, you may search for 1 Card Name Marche or Monster and add it to your hand.
+[G][Dull], put Doned into the Break Zone: Choose 1 Category FFTA card in your Break Zone. Add it to your hand.",,Doned (Full Art),11-053H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xi/doned-full-art,Opus XI,,left_only,Backup,FFTA,4.0,Wind,Clan Leader,
+Normal,[G][G][G][Dull]: Search for 1 Character and add it to your hand.,,Fiona (Full Art),11-056R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xi/fiona-full-art,Opus XI,,left_only,Backup,FFCC,2.0,Wind,Princess,
+Normal,"[Y][Dull], put Luca into the Break Zone: Choose 1 Backup of cost 3 or less in your Break Zone. Play it onto the field.",,Luca (Full Art),11-084R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xi/luca-full-art,Opus XI,,left_only,Backup,IV,2.0,Earth,Engineer,
+Normal,"If you control 2 or more Category FFTA Characters, the cost for playing Marche onto the field is reduced by 2.
+When Marche enters the field, choose 1 Category FFTA Character of cost 3 or less in your Break Zone. Play it onto the field.",,Marche (Full Art),11-017H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xi/marche-full-art,Opus XI,,left_only,Forward,FFTA,5.0,Fire,Clan Leader,7000.0
+Normal,"[I][Dull], put Mewt into the Break Zone: Dull and Freeze all the Backups opponent controls. You can only use this ability during your turn and if your opponent controls 5 or more Backups.",,Mewt (Full Art),11-039H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xi/mewt-full-art,Opus XI,,left_only,Backup,FFTA,2.0,Ice,Prince,
+Normal,"When a Category FFCC Character other than Mira you control is put from the field into the Break Zone, you may search for 1 Category FFCC Character of the same card type and add it to your hand. This effect will trigger only once per turn.
+[Dull]: Choose 1 Category FFCC Character other than Forward you control. Activate it. Until the end of the turn, it also becomes a Forward with 8000 power.",,Mira (Full Art),11-122H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xi/mira-full-art,Opus XI,,left_only,Forward,FFCC,2.0,Water,Dark Lord,5000.0
+Normal,"[Y][Dull], put Monk into the Break Zone: Choose 1 Forward. Deal it 3000 damage for each Job Monk or Card Name Monk you control.",,Monk - 11-079C (Full Art),11-079C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xi/monk-11-079c-full-art,Opus XI,,left_only,Backup,Special,2.0,Earth,Standard Unit,
+Normal,"When Princess Sarah enters the field, name 1 Element. Princess Sarah becomes that Element. (This effect does not end at the end of the turn.)
+[Dull]: All the Forwards of the same Element as Princess Sarah you control gain +1000 power until the end of the turn.",,Princess Sarah (Full Art),11-128H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xi/princess-sarah-full-art,Opus XI,,left_only,Backup,I,10.0,Light,,
+Normal,"When Red Mage enters the field, if the cost to play Red Mage was paid with CP of 2 or more different Elements, until the end of the turn, Red Mage gains +2000 power and Haste.",,Red Mage (Full Art),11-085C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xi/red-mage-full-art,Opus XI,,left_only,Forward,Special,4.0,Lightning,Standard Unit,7000.0
+Normal,"If you control a Category FFTA Forward other than Ritz, Ritz gains +1000 power and Haste.
+When Ritz attacks, choose up to 3 Backups you control. Activate them.
+Damage 3 — Ritz gains ""Ritz cannot be blocked.""",,Ritz (Full Art),11-063L,Legend,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xi/ritz-full-art,Opus XI,,left_only,Forward,FFTA,3.0,Wind,Fencer,7000.0
+Normal,"You can only play Sephiroth if either player has received 4 points of damage or more.
+Octaslash [S]: Choose up to 1 Forward, up to 1 Backup, and up to 1 Monster. Remove them from the game. You can only use this ability if each player has received 5 points of damage or more.",,Sephiroth - 11-130L (Full Art),11-130L,Legend,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xi/sephiroth-11-130l-full-art,Opus XI,,left_only,Forward,VII,4.0,Dark,One-Winged Angel,10000.0
+Normal,"When Sephiroth attacks, dull all the Forwards opponent controls with 8000 power or less.
+At the end of each of your turns, remove 3 cards from your Break Zone from the game or put Sephiroth into the Break Zone.",,Sephiroth - 11-138S (Full Art),11-138S,Starter,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xi/sephiroth-11-138s-full-art,Opus XI,,left_only,Forward,VII,3.0,Lightning,SOLDIER,9000.0
+Normal,"When Thief enters the field, turn over one card at a time from the top of your deck until an Earth or Lightning card is revealed. Add it to your hand. Then, shuffle the other cards and return them to the bottom of your deck.",,Thief - 11-047C (Full Art),11-047C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xi/thief-11-047c-full-art,Opus XI,,left_only,Backup,Special,3.0,Wind,Standard Unit,
+Normal,"If you control a Card Name Cloud, the cost for playing Tifa onto the field is reduced by 1 and can be paid with CP of any Element.
+The Category VII Forwards other than Tifa you control gain +2000 power and Brave.
+Damage 3 — Tifa gains ""The Category VII Forwards you control cannot be broken by opposing Summons or abilities that don't deal damage.""",,Tifa (Full Art),11-071L,Legend,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xi/tifa-full-art,Opus XI,,left_only,Forward,VII DFF,5.0,Earth,Martial Artist,9000.0
+Normal,"The Card Name Mira you control gains +2000 power.
+When Tonbetty is put from the field into the Break Zone, draw 1 card.",,Tonbetty (Full Art),11-119C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xi/tonbetty-full-art,Opus XI,,left_only,Backup,FFCC,2.0,Water,Advisor,
+Normal,"When Ursula enters the field, choose 1 Job Monk or Card Name Monk of cost 2 or less in your Break Zone. Play it onto the field. 
+Put 1 Job Monk or Card Name Monk other than Ursula into the Break Zone: Select 1 of the 2 following actions. ""Until the end of the turn, Ursula gains +4000 power and Brave."" ""Choose 1 Forward. Deal it damage equal to Ursula's power.""",,Ursula (Full Art),11-064L,Legend,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xi/ursula-full-art,Opus XI,,left_only,Forward,IV,4.0,Earth,Monk,5000.0
+Normal,"When Warrior of Light enters the field, during this turn, the next damage dealt to you becomes 0 instead.
+[0]: Choose 1 Forward other than Warrior of Light. It gains +2000 power until the end of the turn. During this turn, when that Forward is put from the field into the Break Zone, Warrior of Light deals you 1 point of damage. You can only use this ability once per turn.",,Warrior of Light (Full Art),11-044H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xi/warrior-of-light-full-art,Opus XI,,left_only,Forward,I,3.0,Wind,Warrior of Light,7000.0
+Normal,"When White Mage enters the field, if the cost to play White Mage was paid with CP of 2 or more different Elements, activate all the Forwards you control.",,White Mage (Full Art),11-115C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-xi/white-mage-full-art,Opus XI,,left_only,Forward,Special,4.0,Water,Standard Unit,8000.0
+Normal,"If you don't control any Forwards, Aria (III) does not activate during your Active Phase.
+[Dull]: All the Forwards you control gain +1000 power until the end of the turn.",,Aria (III) (Full Art),10-108R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-x/aria-iii-full-art,Opus X,,left_only,Backup,III,2.0,Water,Seeress,
+Normal,EX BURST Choose 1 Forward. Deal it 2000 damage for each Backup you control.,,Balasa EX (Full Art),10-003C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-x/balasa-ex-full-art,Opus X,,left_only,Summon,XII,4.0,Fire,,
+Normal,"[I][I][Dull], put Black Mage into the Break Zone: Choose 1 Ice Summon in your Break Zone. Add it to your hand.",,Black Mage (Full Art),10-029C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-x/black-mage-full-art,Opus X,,left_only,Backup,Special,2.0,Ice,Standard Unit,
+Normal,"[Dull], put Cecil into the Break Zone: During this turn, if a Forward you control is dealt damage, reduce the damage by 2000 instead.",,Cecil (Full Art),10-115C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-x/cecil-full-art,Opus X,,left_only,Backup,IV,2.0,Water,Paladin,
+Normal,EX BURST Choose 1 Forward or Backup in your Break Zone. Add it to your hand.,,Cu Sith EX (Full Art),10-068C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-x/cu-sith-ex-full-art,Opus X,,left_only,Summon,XII,2.0,Earth,,
+Normal,"Choose 1 Forward. Until the end of the turn, it loses 1000 power for each card in your hand. If its power has become 0 or less by the previous effect, draw 1 card.",,Cuchulainn (Full Art),10-110C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-x/cuchulainn-full-art,Opus X,,left_only,Summon,XII,1.0,Water,,
+Normal,"If you control a Card Name Kam'lanaut, the cost for playing Eald'narche onto the field is reduced by 2.
+When Eald'narche enters the field, choose 1 Character opponent controls. Dull it.
+Damage 5 — When Eald'narche enters the field, choose up to 3 Characters opponent controls. Dull them.",,Eald'narche (Full Art),10-024R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-x/ealdnarche-full-art,Opus X,,left_only,Forward,XI,5.0,Ice,Descendant of the Zilart,9000.0
+Normal,"When Echo enters the field, you may search for 1 Category MOBIUS Forward and add it to your hand.",,Echo (Full Art),10-047R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-x/echo-full-art,Opus X,,left_only,Backup,Mobius,3.0,Wind,Fairy,
+Normal,"Summons or abilities of your opponent must choose Feolthanos if possible. When Feolthanos is chosen by your opponent's Summons of cost 5 or less or abilities of  their Characters of cost 5 or less, cancel its effect.
+
+Red text indicates an official errata.",,Feolthanos (Full Art),10-098L,Legend,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-x/feolthanos-full-art,Opus X,,left_only,Forward,XII,7.0,Lightning,Aegyl,9000.0
+Foil,"When G Diver is put from the field into the Break Zone, each player draws 1 card.",0.38,G Diver,10-113C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-x/g-diver,Opus X,,left_only,Forward,VII,2.0,Water,Standard Unit,5000.0
+Normal,"f you control a Card Name Eald'narche, the cost for playing Kam'lanaut onto the field is reduced by 2.
+When Kam'lanaut enters the field, if your opponent controls 4 or more dull Characters, your opponent discards 1 card from his/her hand.",,Kam'lanaut (Full Art),10-025R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-x/kamlanaut-full-art,Opus X,,left_only,Forward,XI,4.0,Ice,Descendant of the Zilart,8000.0
+Normal,"If you control a Card Name Reynn, Lann gains +2000 power and First Strike.
+When Lann enters the field, choose 1 Monster that is also a Forward. Until the end of the turn, it gains +5000 power and Brave.",,Lann (Full Art),10-017R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-x/lann-full-art,Opus X,,left_only,Forward,World of Final Fantasy,2.0,Fire,Mirage Keeper,5000.0
+Normal,The cost required to play Lusse onto the field is reduced by 1 for each Card Name Lann or Card Name Reynn you control.,,Lusse (Full Art),10-019C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-x/lusse-full-art,Opus X,,left_only,Backup,World of Final Fantasy,2.0,Fire,Mother,
+Normal,[Dull]: Choose 1 Category MOBIUS Forward you control. It gains +1000 power until the end of the turn.,,Mog (MOBIUS) (Full Art),10-083R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-x/mog-mobius-full-art,Opus X,,left_only,Backup,Mobius,2.0,Earth,Moogle,
+Normal,"Damage 3 — [Dull]: Deal 1000 damage to all the Forwards opponent controls. (If you have received 3 points of damage or more, this Character has this ability.)",,Penelo (Full Art),10-058R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-x/penelo-full-art,Opus X,,left_only,Backup,XII,2.0,Wind,Dancer,
+Normal,EX BURST Deal 2000 damage to all the active Forwards opponent controls. Draw 1 card.,,Raiden (REVENANT WINGS) EX (Full Art),10-100C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-x/raiden-revenant-wings-ex-full-art,Opus X,,left_only,Summon,XII,1.0,Lightning,,
+Foil,EX BURST Deal 2000 damage to all the active Forwards opponent controls. Draw 1 card.,24.2,Raiden (REVENANT WINGS) EX (Full Art),10-100C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-x/raiden-revenant-wings-ex-full-art,Opus X,,left_only,Summon,XII,1.0,Lightning,,
+Normal,"When Refia enters the field, you may search for 1 Card Name Arc, Card Name Ingus, or Card Name Luneth of cost 4 or less and play it onto the field.
+When Refia attacks, choose 1 Forward opponent controls. If you control 4 or more Job Warrior of Light Forwards, remove it from the game.",,Refia (Full Art),10-128L,Legend,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-x/refia-full-art,Opus X,,left_only,Forward,III,5.0,Light,Warrior of Light,8000.0
+Normal,"The cost required to play Reynn onto the field is reduced by 1 for each Category WOFF Character you control.
+The Category WOFF Forwards other than Reynn you control gain Haste.
+When a Category WOFF Forward you control attacks, choose 1 Forward opponent controls. Deal it 4000 damage.",,Reynn (Full Art),10-020L,Legend,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-x/reynn-full-art,Opus X,,left_only,Forward,World of Final Fantasy,5.0,Fire,Mirage Keeper,8000.0
+Normal,"EX BURST When Rorrik enters the field, choose 1 Card Name Lann or Card Name Reynn in your Break Zone. Add it to your hand.",,Rorrik EX (Full Art),10-021C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-x/rorrik-ex-full-art,Opus X,,left_only,Backup,World of Final Fantasy,3.0,Fire,Father,
+Normal,The Job Warrior of Light Forwards you control gain +1000 power.,,Sara (Full Art),10-112H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-x/sara-full-art,Opus X,,left_only,Backup,III,3.0,Water,Princess,
+Normal,EX BURST Choose 1 dull Forward. Deal it 4000 damage. Draw 1 card.,,Shivan EX (Full Art),10-041C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-x/shivan-ex-full-art,Opus X,,left_only,Summon,XII,10.0,Ice,,
+Normal,EX BURST Choose 1 Forward. Deal it 3000 damage. Draw 1 card.,,Sylph EX (Full Art),10-053C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-x/sylph-ex-full-art,Opus X,,left_only,Summon,XII,2.0,Wind,,
+Normal,"When Warrior enters the field, select 1 of the 2 following actions.
+""Choose 1 Forward. Until the end of the turn, it gains Brave and it gains +1000 power for each point of damage you have received.""
+""Choose 1 Forward. Deal it 1000 damage for each point of damage you have received.""",,Warrior (Full Art),10-075C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-x/warrior-full-art,Opus X,,left_only,Forward,Special,4.0,Earth,Standard Unit,8000.0
+Normal,"If you control a Category FFTA2 Forward other than Adelle, Adelle gains +2000 power and Haste.
+If you control 5 or more Backups, Adelle cannot be blocked.",,Adelle (Full Art),9-042H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-ix/adelle-full-art,Opus IX,,left_only,Forward,FFTA2,4.0,Wind,Heritor,7000.0
+Foil,"During your turn, Ahriman also becomes a Forward with 7000 power.
+When Ahriman deals damage to your opponent, choose 1 Forward of cost 5 or more opponent controls. Break it.",0.25,Ahriman,9-041R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-ix/ahriman,Opus IX,,left_only,Monster,Crystal Hunt,3.0,Wind,Ahriman,7000.0
+Normal,"When Chaos (MOBIUS) enters the field, if the cost paid to play Chaos (MOBIUS) included Fire CP, deal 5000 damage to all the Forwards opponent controls. If the cost paid to play Chaos (MOBIUS) included Ice CP, your opponent discards 1 card from his/her hand. If the cost paid to play Chaos (MOBIUS) included Lightning CP, your opponent selects 1 Monster he/she controls. Put it into the Break Zone.",,Chaos (MOBIUS) (Full Art),9-123L,Legend,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-ix/chaos-mobius-full-art,Opus IX,,left_only,Forward,Mobius,6.0,Dark,King,9000.0
+Normal,"When a Card Name Chocobo you control forms a party and attacks, all Forwards in that party gain +1000 power until the end of the turn.",,Chocobo (Full Art),9-050C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-ix/chocobo-full-art,Opus IX,,left_only,Forward,Special,4.0,Wind,Standard Unit,7000.0
+Normal,"[P][Dull], discard 1 Category FFTA2 Forward, put Cid of Clan Gully into the Break Zone: Choose 1 active Forward. Break it.",,Cid of Clan Gully (Full Art),9-085C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-ix/cid-of-clan-gully-full-art,Opus IX,,left_only,Backup,FFTA2,2.0,Lightning,Clan Leader,
+Normal,"When Clavat attacks, choose 1 Forward. Deal it 1000 damage and Clavat gains +1000 power until the end of the turn.",,Clavat (Full Art),9-011R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-ix/clavat-full-art,Opus IX,,left_only,Forward,FFCC,3.0,Fire,Standard Unit,7000.0
+Normal,"EX BURST When Gabranth enters the field, you may search for 1 Forward of cost 5 or more and add it to your hand.
+If you have received 6 points of damage or more, Gabranth gains +3000 power and Brave.
+Sentence [S][Dull]: Choose 1 Forward. Deal it 3000 damage and 1000 more damage for each point of damage you have received.",,Gabranth EX (Full Art),9-063L,Legend,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-ix/gabranth-ex-full-art,Opus IX,,left_only,Forward,XII,4.0,Earth,Judge,5000.0
+Normal,"When Hurdy enters the field, reveal the top card of your deck. If it is a Character, add it to your hand.
+[Dull], put Hurdy into the Break Zone: Choose 1 Category FFTA2 Forward in your Break Zone. Add it to your hand.",,Hurdy (Full Art),9-030H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-ix/hurdy-full-art,Opus IX,,left_only,Backup,FFTA2,3.0,Ice,Moogle,
+Normal,"When Larkeicus enters the field, choose 1 Monster in your Break Zone. Add it to your hand.
+[Y][Y][Dull]: Search for 1 Monster and add it to your hand.",,Larkeicus (Full Art),9-076H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-ix/larkeicus-full-art,Opus IX,,left_only,Forward,FFCC,3.0,Earth,Doctor,5000.0
+Normal,"When Lilty blocks, choose 1 Forward in your Break Zone. Add it to your hand.",,Lilty (Full Art),9-079R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-ix/lilty-full-art,Opus IX,,left_only,Forward,FFCC,3.0,Earth,Standard Unit,7000.0
+Normal,"For each Forward other than Luso you control, Luso gains +1000 power.
+If there are 3 or more different Elements among Forwards you control, Luso gains First Strike and Brave.
+When Luso attacks, if there are 5 or more different Elements among Forwards you control, Luso deals your opponent 1 point of damage.",,Luso (Full Art),9-058L,Legend,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-ix/luso-full-art,Opus IX,,left_only,Forward,FFTA2,2.0,Wind,Youth,5000.0
+Normal,"At the beginning of your Attack Phase, select 1 of the 3 following actions. If you have received 5 points of damage or more, select up to 2 of the 3 following actions instead.
+""Choose 1 Forward. Until the end of the turn, it gains +1000 power and First Strike.""
+""Choose 1 Forward. Dull it.""
+""Choose 1 Category MOBIUS Forward other than Meia. It gains Haste until the end of the turn.""",,Meia (Full Art),9-095L,Legend,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-ix/meia-full-art,Opus IX,,left_only,Forward,Mobius,3.0,Lightning,Witch,7000.0
+Normal,"Select 1 of the 3 following actions. 
+""Choose 1 Summon of cost 5 or less. Cancel its effect.""
+""Choose 1 Forward you control. Dull it. It doesn’t receive any damage this turn.""
+""Remove all the cards in your opponent's Break Zone from the game. Draw 1 card.""",,Mist Dragon (Full Art),9-068H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-ix/mist-dragon-full-art,Opus IX,,left_only,Summon,IV,3.0,Earth,,
+Normal,"When Selkie attacks, reveal the top card of your deck. If it is a Wind Forward, add it to your hand.",,Selkie (Full Art),9-049R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-ix/selkie-full-art,Opus IX,,left_only,Forward,FFCC,3.0,Wind,Standard Unit,7000.0
+Foil,"When White Mage enters the field, you may pay [U]. When you do so, draw 1 card.",0.35,White Mage,9-108C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-ix/white-mage,Opus IX,,left_only,Backup,FFTA2,2.0,Water,Standard Unit,
+Normal,"You can only play with Fire CP, Wind CP, Earth CP or Water CP and you must use CP of 2 or more different Elements to play Wol onto the field.
+When Wol is put from the field into the Break Zone, choose 1 Forward opponent controls. Deal it 9000 damage.",,Wol (Full Art),9-121L,Legend,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-ix/wol-full-art,Opus IX,,left_only,Forward,Mobius,4.0,Light,Warrior of Light,9000.0
+Normal,"When Yang enters the field, choose 1 Forward. Until the end of the turn, it gains +2000 power and Brave. If it is a Job Monk or a Card Name Monk, until the end of the turn, it also gains ""When this Forward attacks, choose 1 Forward opponent controls. Deal it damage equal to this Forward's power.""",,Yang (Full Art),9-075R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-ix/yang-full-art,Opus IX,,left_only,Forward,IV,4.0,Earth,Monk,8000.0
+Normal,"When Yuke is blocked, your opponent discards 1 card from his/her hand.",,Yuke (Full Art),9-035R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-ix/yuke-full-art,Opus IX,,left_only,Forward,FFCC,3.0,Ice,Standard Unit,7000.0
+Foil,"When Diana enters the field, choose 1 Category FFL Forward other than Card Name Diana in your Break Zone. Add it to your hand.
+[Dull]: Choose 1 Category FFL Forward other than Diana you control. It gains +2000 power until the end of the turn.",2.0,Diana,8-101H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-viii/diana,Opus VIII,,left_only,Forward,FFL,3.0,Lightning,Warrior of Darkness,6000.0
+Foil,"[U][Dull], put Paladin into the Break Zone: Choose 1 Forward you control and 1 other Forward you control. During this turn, the next damage dealt to the former is received by the latter instead.
+",0.48,Paladin,8-121C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-viii/paladin,Opus VIII,,left_only,Backup,XIV,2.0,Water,Standard Unit,
+Foil,"For each Lightning Backup you control, Shango gains +1000 power.",0.5,Shango,8-098C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-viii/shango,Opus VIII,,left_only,Forward,FFL,3.0,Lightning,Divine General,5000.0
+Foil,"When Thief enters the field, name 1 Element. Your opponent randomly reveals 2 cards from his/her hand. Select 1 card of the same Element as named among them. Your opponent discards this card.",0.5,Thief,8-052C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-viii/thief,Opus VIII,,left_only,Backup,XI,4.0,Wind,Standard Unit,
+Foil,"When Bard enters the field, choose up to 2 Forwards your opponent controls, Freeze them.
+Dull it and Freeze it.",0.25,Bard,7-024C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vii/bard,Opus VII,,left_only,Backup,V,3.0,Ice,Standard Unit,
+Foil,"When Berserker deals damage to your opponent or to a Forward, break Berserker.",0.2,Berserker,7-013R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vii/berserker,Opus VII,,left_only,Forward,V,2.0,Fire,Standard Unit,8000.0
+Foil,"[R][Dull], put Black Mage into the Break Zone: Choose 1 Forward. Deal it 4000 damage.",0.25,Black Mage (7-007C),7-007C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vii/black-mage-7-007c,Opus VII,,left_only,Backup,V,2.0,Fire,Standard Unit,
+Foil,[I][Dull]: Choose 1 Dull Forward. Deal it 2000 damage.,0.25,Black Mage (7-028C),7-028C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vii/black-mage-7-028c,Opus VII,,left_only,Backup,V,2.0,Ice,Standard Unit,
+Foil,"[P][Dull], put Cannoneer and 1 Forward into the Break Zone: Choose 1 Forward. Deal it 7000 damage.",0.4,Cannoneer,7-099R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vii/cannoneer,Opus VII,,left_only,Backup,V,2.0,Lightning,Standard Unit,
+Foil,"Back Attack (Like Summons and abilities, this card can be played during either player's Attack Phase or Main Phase.)",0.4,Carbuncle,7-066C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vii/carbuncle,Opus VII,,left_only,Backup,FFCC,2.0,Earth,Carbuncle,
+Foil,"When Dragoon enters the field, choose 1 Forward. If the cost paid to play Dragoon included Wind CP, it cannot be blocked this turn.",0.27,Dragoon,7-105C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vii/dragoon,Opus VII,,left_only,Forward,V,2.0,Lightning,Standard Unit,5000.0
+Foil,"When a Job Bard Forward you control attacks, your opponent discards 1 card from his/her hand.",0.33,Eduardo,7-023R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vii/eduardo,Opus VII,,left_only,Forward,FFL,5.0,Ice,Bard,8000.0
+Foil,"Put Flan into the Break Zone: Choose 1 Forward. If your opponent doesn't pay (3), it cannot attack or block this turn.
+Discard Flan: Choose 1 blocking Forward. It gains +1000 power until the end of the turn. You can only use this ability if Flan is in your hand.",0.28,Flan,7-081C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vii/flan,Opus VII,,left_only,Monster,Special,2.0,Earth,Flan,
+Foil,"When Galdes is put from the field into the Break Zone, select 1 of the 3 following actions.
+""Your opponent randomly discards 1 card from his/her hand.""
+""Choose 1 Monster in your Break Zone. Add it to your hand.""
+""Choose 1 Forward. It loses 5000 power until the end of the turn.""",0.92,Galdes,7-129H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vii/galdes,Opus VII,,left_only,Forward,FFCC,3.0,Dark,Archbishop,8000.0
+Foil,Gawain doesn't receive any damage from Forwards' abilities.,0.25,Gawain,7-107R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vii/gawain,Opus VII,,left_only,Forward,FFL,3.0,Water,Knight,7000.0
+Foil,"When your opponent casts a Summon, Gladiator gains +2000 power until the end of the turn.",0.25,Gladiator,7-090C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vii/gladiator,Opus VII,,left_only,Forward,V,4.0,Lightning,Standard Unit,8000.0
+Foil,"EX BURST When Gnash enters the field, choose 1 Forward of cost 1 opponent controls or 1 Monster of cost 2 or less opponent controls. Break it.",0.25,Gnash EX,7-057R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vii/gnash-ex,Opus VII,,left_only,Forward,FFCC,4.0,Wind,Archer,7000.0
+Foil,"When Halicarnassus enters the field, all the Forwards opponent controls lose their abilities until the end of the turn.
+[Dull], discard 2 Summons: Choose 1 Forward. Break it.",1.14,Halicarnassus,7-119H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vii/halicarnassus,Opus VII,,left_only,Forward,V,3.0,Water,Queen,7000.0
+Foil,"If you control a Job Father and a Job Mother, Hope gains +2000 power and ""Hope cannot be chosen by your opponent's abilities"".",0.39,Hope,7-062R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vii/hope,Opus VII,,left_only,Forward,XIII Pictlogica,3.0,Wind,Ravager,7000.0
+Foil,"[P][P][Dull], put Mystic Knight into the Break Zone: Choose 1 damaged Forward. Break it.",0.4,Mystic Knight (7-100C),7-100C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vii/mystic-knight-7-100c,Opus VII,,left_only,Backup,V,2.0,Lightning,Standard Unit,
+Foil,"When Oracle enters the field, look at the top 2 cards of your deck. Return these to the top and/or bottom of your deck in any order.",0.25,Oracle,7-124C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vii/oracle,Opus VII,,left_only,Backup,V,2.0,Water,Standard Unit,
+Foil,"When Ranger enters the field, choose 1 Monster of cost 3 or less opponent controls. If the cost paid to play Ranger included Earth CP, break it.
+When Ranger attacks, choose 1 Forward opponent controls. Deal it 2000 damage.",0.25,Ranger,7-048C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vii/ranger,Opus VII,,left_only,Forward,V,2.0,Wind,Standard Unit,4000.0
+Foil,"When Summoner enters the field, choose 1 Forward opponent controls. If the cost paid to play Summoner included Lightning CP, dull it.",0.25,Summoner (7-011C),7-011C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vii/summoner-7-011c,Opus VII,,left_only,Forward,V,3.0,Fire,Standard Unit,7000.0
+Foil,"When Summoner enters the field, choose 1 Forward. If the cost paid to play Summoner included Ice CP, Freeze it.",0.25,Summoner (7-072C),7-072C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vii/summoner-7-072c,Opus VII,,left_only,Forward,V,3.0,Earth,Standard Unit,7000.0
+Foil,"When White Mage enters the field, choose up to 2 Forwards you control. Activate them.",0.25,White Mage,7-112R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vii/white-mage,Opus VII,,left_only,Forward,V,3.0,Water,Standard Unit,6000.0
+Foil,"When a Character of cost 6 or more enters your field, Zaghnal also becomes a Forward with 9000 power. (This effect does not end at the end of the turn. This ability will not trigger if Zaghnal is a Forward.)",0.45,Zaghnal,7-070R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vii/zaghnal,Opus VII,,left_only,Monster,XIII,2.0,Earth,Behemoth,9000.0
+Normal,"[R][Dull], put Black Mage into the Break Zone: Choose 1 Forward. Deal it 4000 damage.
+
+This reprint deck exclusive features the new card design introduced with Opus IV.",0.25,Black Mage (Arc) - 1-010C,1-010C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/deck-exclusive-cards/black-mage-arc-1-010c,Deck Exclusive Cards,,left_only,Backup,III,2.0,Fire,Standard Unit,
+Normal,"[U][U][1][Dull], put Blue Mage into the Break Zone: Choose 1 Forward of cost 5 or higher. Return it to it's owner's hand.
+
+This card was reprinted with a new formatted style.
+",0.44,Blue Mage - 3-121C,3-121C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/deck-exclusive-cards/blue-mage-3-121c,Deck Exclusive Cards,,left_only,Backup,V,2.0,Water,Standard Unit,
+Normal,EX BURST Choose 1 Forward. Deal it 7000 damage.,0.25,Brynhildr EX - 1-023R,1-023R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/deck-exclusive-cards/brynhildr-ex-1-023r,Deck Exclusive Cards,,left_only,Summon,XIII,3.0,Fire,,
+Normal,"This card was reprinted with a new formatted style.
+",0.65,Evoker (Refia) - 1-159C,1-159C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/deck-exclusive-cards/evoker-refia-1-159c,Deck Exclusive Cards,,left_only,Backup,III,1.0,Water,Standard Unit,
+Normal,"[I][I][Dull]: Dull all the Forwards with a cost equal to the number of [Job (Moogle)] you control.
+
+This card was reprinted with a new formatted style.",0.5,Hurdy - 2-043C,2-043C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/deck-exclusive-cards/hurdy-2-043c,Deck Exclusive Cards,,left_only,Backup,XII,2.0,Ice,Moogle,
+Normal,"EX BURST When Nora enters the field, you may search for 1 [Card Name (Hope)] and add it to your hand.",0.34,Nora EX - 1-079R,1-079R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/deck-exclusive-cards/nora-ex-1-079r,Deck Exclusive Cards,,left_only,Backup,XIII,3.0,Wind,Mother,
+Normal,"[G][G][Dull], put Oracle into the Break Zone: Activate all Characters you control.
+
+This card was reprinted with a new formatted style.
+",0.65,Oracle - 3-070C,3-070C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/deck-exclusive-cards/oracle-3-070c,Deck Exclusive Cards,,left_only,Backup,V,2.0,Wind,Standard Unit,
+Normal,"[R][1][Dull]: Choose 1 Forward. It cannot block this turn.
+
+This reprint deck exclusive features the new card design introduced with Opus IV.",0.25,Red Mage (Arc) - 1-003C,1-003C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/deck-exclusive-cards/red-mage-arc-1-003c,Deck Exclusive Cards,,left_only,Backup,III,2.0,Fire,Standard Unit,
+Normal,"[P][Dull]: Choose 1 Forward. It gains Haste until the end of the turn.
+
+This reprint deck exclusive features the new card design introduced with Opus IV.",0.23,Red Mage (Refia) - 1-121C,1-121C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/deck-exclusive-cards/red-mage-refia-1-121c,Deck Exclusive Cards,,left_only,Backup,III,2.0,Lightning,Standard Unit,
+Normal,"Reddas must attack once per turn if possible. When Reddas attacks, the Forwards other than Reddas you control gain +1000 power until the end of the turn.
+
+This card was reprinted with a new formatted style.
+",0.65,Reddas - 2-072C,2-072C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/deck-exclusive-cards/reddas-2-072c,Deck Exclusive Cards,,left_only,Forward,XII,5.0,Wind,Sky Pirate,9000.0
+Foil,"When Borghen is put from the field into the Break Zone, your opponent discards 1 card from his/her hand.",0.53,Borghen,6-039H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vi/borghen,Opus VI,,left_only,Forward,II,1.0,Ice,Captain,3000.0
+Foil,"If you control Card Name Leo, the cost required to play 
+Chime onto the field is reduced by 2.
+When Chime enters the field, choose 1 Forward opponent controls. You may return 1 Forward you control to its owner's hand. If you do so, return the 
+chosen Forward to its owner's hand.",0.37,Chime,6-119C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vi/chime,Opus VI,,left_only,Backup,FFCC,4.0,Water,Minister,
+Foil,"When Cid (XI) enters the field, select 1 of the 2 following actions.
+""Look at the top 3 cards of your deck. Add 1 card among them to your hand and put the rest of the cards into the Break Zone.""
+""All the Forwards you control gain +3000 power until the end of the turn.""",0.32,Cid (XI),6-009R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vi/cid-xi,Opus VI,,left_only,Backup,XI,4.0,Fire,Engineer,
+Foil,"If Dark Knight receives damage, the damage increases by 4000 instead.",0.45,Dark Knight,6-065C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vi/dark-knight,Opus VI,,left_only,Forward,XIV,3.0,Earth,Standard Unit,9000.0
+Foil,"When Dark Lord enters the field, remove the top 10
+cards of your deck from the game.
+At the beginning of your Attack Phase, choose up to 1 
+Forward. Deal it 3000 damage.",1.42,Dark Lord,6-016H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vi/dark-lord,Opus VI,,left_only,Forward,FFCC,3.0,Fire,King,8000.0
+Foil,"[P]1, put Diepvern into the Break Zone: Choose 1 Forward of cost 3 or less. Break it.
+
+
+",0.25,Diepvern,6-098R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vi/diepvern,Opus VI,,left_only,Monster,Type-0,1.0,Lightning,Dragon,
+Foil,"[U]1, put Dracobaltian into the Break Zone: Choose 1 Forward opponent controls. Return it to its owner's hand.",0.3,Dracobaltian,6-116R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vi/dracobaltian,Opus VI,,left_only,Monster,Type-0,2.0,Water,Dracobaltian,
+Foil,"
+",0.25,Evoker (6-110C),6-110C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vi/evoker-6-110c,Opus VI,,left_only,Backup,III,1.0,Water,Standard Unit,
+Foil,"If your opponent controls 3 or more Forwards, Ewen gains Haste and ""Ewen cannot be blocked"".
+
+
+",0.5,Ewen,6-100C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vi/ewen,Opus VI,,left_only,Forward,FFTA2,3.0,Lightning,Nightfall,5000.0
+Foil,"When Frimelda enters the field, choose 1 active Forward opponent controls. Deal it 4000 damage for each Job Sword Saint you control.
+
+
+",0.66,Frimelda,6-099H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vi/frimelda,Opus VI,,left_only,Forward,FFTA2,4.0,Lightning,Sword Saint,8000.0
+Foil,"0: Until the end of the turn, Goblin also becomes a Forward with 5000 power and ""When Goblin attacks, choose 1 Forward. Deal it 1000 damage."" You can only use this ability once per turn.",0.3,Goblin,6-008C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vi/goblin,Opus VI,,left_only,Monster,Theatrhythm,2.0,Fire,Goblin,
+Foil,"EX BURST When Hugh Yurg enters the field, you may search for 1 Job Warrior and add it to your hand.
+If you control Card Name Leo, Hugh Yurg gains +1000 power and Brave.",0.51,Hugh Yurg,6-077R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vi/hugh-yurg,Opus VI,,left_only,Forward,FFCC,5.0,Earth,Warrior,
+Foil,"[Dull], put Illusionist into the Break Zone: Choose 1 Forward. It must attack this turn if possible.",0.42,Illusionist,6-005C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vi/illusionist,Opus VI,,left_only,Backup,FFTA2,2.0,Fire,Standard Unit,
+Foil,"When Leon enters the field, your opponent gains
+control of Leon.
+When a Category II Character of your opponent enters 
+the field, your opponent gains control of Leon.",0.8,Leon,6-063H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vi/leon,Opus VI,,left_only,Forward,II,1.0,Wind,Rebel,8000.0
+Foil,"When Locke enters the field, reveal the top 5 cards of 
+your deck. Add 1 Category VI card among them to your 
+hand and return the other cards to the bottom of your 
+deck in any order.",0.25,Locke,6-042C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vi/locke,Opus VI,,left_only,Forward,Theatrhythm VI,4.0,Ice,Treasure Hunter,7000.0
+Foil,"[Y][Y]1[Dull], put Machinist into the Break Zone: Choose 1 Forward of power 5000 or less. Break it.",0.23,Machinist,6-069C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vi/machinist,Opus VI,,left_only,Backup,XIV,2.0,Earth,Standard Unit,
+Foil,"0: Until the end of the turn, Militesi Coeurl also becomes a Forward with 5000 power and ""When Militesi Coeurl attacks, choose 1 Forward. Dull it."" You can only use this ability once per turn.",0.39,Militesi Coeurl,6-030C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vi/militesi-coeurl,Opus VI,,left_only,Monster,Type-0,3.0,Ice,Lesser Coeurl,
+Foil,"EX BURST When Ricard enters the field, you may search for 1 Card Name Scott or Card Name Minwu or Card Name Josef and add it to your hand.
+Ricard must block if possible.
+
+
+",0.33,Ricard,6-103H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vi/ricard,Opus VI,,left_only,Forward,II,5.0,Lightning,Dragoon,8000.0
+Foil,"0: Until the end of the turn, Sahagin also becomes a Forward with 6000 power and ""When Sahagin attacks, draw 1 card, then discard 1 card from your hand."" You can only use this ability once per turn.",0.25,Sahagin,6-111C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vi/sahagin,Opus VI,,left_only,Monster,Theatrhythm,3.0,Water,Sahagin,
+Foil,"For each Backup you control, Scott gains +1000 power.
+If you control Card Name Hilda, Scott and the Card Name Gordon you control gain Brave.",0.35,Scott,6-115H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vi/scott,Opus VI,,left_only,Forward,II,3.0,Water,Prince,4000.0
+Foil,2: Soldier gains +1000 power until the end of the turn.,0.25,Soldier,6-015C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vi/soldier,Opus VI,,left_only,Forward,FFTA2,3.0,Fire,Standard Unit,7000.0
+Foil,"[Dull]: Choose 1 Forward. During this turn, the next damage dealt to it is reduced by 2000 instead.",0.25,Templar,6-114C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vi/templar,Opus VI,,left_only,Forward,FFTA2,4.0,Water,Standard Unit,8000.0
+Normal,"Zidane cannot be chosen by your opponent's abilities.
+When your opponent discards a card from his/her hand due to your Summons or abilities, choose 1 Wind Character. Activate it. 
+When Zidane attacks, your opponent reveals his/her hand. Select 1 Forward from their hand. Your opponent discards this card.
+",,Zidane (Road to World Championship),6-044L,Promo,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-vi/zidane-road-to-world-championship,Opus VI,,left_only,Forward,IX DFF,4.0,Wind,Genome,7000.0
+Foil,[I][1][Dull]: Select 1 number. All Forwards of that cost cannot attack this turn.,0.5,Arcanist (FFTA2),5-028C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-v/arcanist-ffta2,Opus V,,left_only,Backup,FFTA2,2.0,Ice,Standard Unit,
+Foil,"Haste
+When Assassin attacks, choose 1 Forward of cost 2 or less. Dull it.",0.5,Assassin,5-098C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-v/assassin,Opus V,,left_only,Forward,FFTA2,2.0,Lightning,Standard Unit,2000.0
+Foil,EX BURST Choose 1 Forward you control. Activate it and negate all damage dealt to it. Draw 1 card.,1.25,Asura EX,5-049C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-v/asura-ex,Opus V,,left_only,Summon,IV,2.0,Wind,,
+Foil,Berserker cannot block.,0.5,Berserker,5-089C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-v/berserker,Opus V,,left_only,Forward,FFTA2,4.0,Earth,Standard Unit,9000.0
+Foil,"EX BURST Choose 1 Forward. During this turn, it cannot attack or block, and doesn't receive any damage.",1.33,Cockatrice EX,5-081C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-v/cockatrice-ex,Opus V,,left_only,Summon,IV,1.0,Earth,,
+Foil,"When Conjurer enters the field, choose 1 Job Standard Unit in your Break Zone. Add it to your hand.",0.4,Conjurer,5-035C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-v/conjurer,Opus V,,left_only,Backup,XIV,3.0,Ice,Standard Unit,
+Foil,[R]: Choose 1 Forward. Deal it and Fighter 1000 damage.,0.27,Fighter,5-016C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-v/fighter,Opus V,,left_only,Forward,FFTA2,2.0,Fire,Standard Unit,4000.0
+Foil,"[U][U][1][Dull], put Fisher into the Break Zone: Choose 1 Monster of cost 3 or less in your Break Zone. Play it onto the field. You can only use this ability during your turn.",0.43,Fisher,5-140C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-v/fisher,Opus V,,left_only,Backup,XIV,2.0,Water,Standard Unit,
+Foil,"When Hurdy enters the field, you may search for 1 Card Name Montblanc and add it to your hand.",0.5,Hurdy,5-043R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-v/hurdy,Opus V,,left_only,Backup,FFTA2,4.0,Ice,Moogle,
+Foil,"When Khalia Chival enters the field, you may search for 1 Job Agito Cadet and add it to your hand.",0.26,Khalia Chival,5-104R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-v/khalia-chival,Opus V,,left_only,Backup,Type-0,4.0,Lightning,Chancellor,
+Foil,"For each point of damage you have received, Lanista gains +1000 power.",0.29,Lanista,5-096C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-v/lanista,Opus V,,left_only,Forward,FFTA2,5.0,Earth,Standard Unit,7000.0
+Foil,"EX BURST Choose 1 Forward. If its cost is equal to or less than the number of cards in your hand, return it to its owner's hand.",0.55,Leviathan EX,5-139C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-v/leviathan-ex,Opus V,,left_only,Summon,IV,1.0,Water,,
+Foil,"[R][Dull]: Choose 1 Character. If it deals damage to a Forward this turn, increase the damage by 2000 instead.",0.25,Manasvin Warmech,5-010C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-v/manasvin-warmech,Opus V,,left_only,Monster,XIII Theatrhythm,2.0,Fire,Annihilator,
+Foil,[U]: Moogle Knight doesn't receive any damage from your opponent's Summons or abilities this turn.,0.5,Moogle Knight,5-138C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-v/moogle-knight,Opus V,,left_only,Forward,FFTA2,3.0,Water,Standard Unit,7000.0
+Foil,"When PSICOM Warden enters the field, you may search for 1 Card Name PSICOM Warden and add it to your hand.
+ For each Card Name PSICOM Warden you control, PSICOM Warden gains +2000 power.
+",0.26,PSICOM Warden,5-084C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-v/psicom-warden,Opus V,,left_only,Forward,XIII,3.0,Earth,Standard Unit,3000.0
+Foil,"[Dull], put Ranger into the Break Zone: Choose 1 Monster of cost 2 or less. Break it.",0.25,Ranger,5-054C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-v/ranger,Opus V,,left_only,Backup,FFTA2,2.0,Wind,Standard Unit,
+Foil,"When Rek is put from the field into the Break Zone, you may play 1 Card Name Vaan from your hand onto the field.",0.2,Reks,5-070C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-v/reks,Opus V,,left_only,Forward,XII,4.0,Wind,Dalmascan Soldier,8000.0
+Foil,"Ryid does not activate during you Active Phase.
+When a Forward you control is put from the field into the Break Zone, activate Ryid.",0.25,Ryid,5-023C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-v/ryid,Opus V,,left_only,Forward,Type-0,3.0,Fire,Agito Cadet,9000.0
+Foil,"Unei enters the field dull.
+Unei does not activate during your Active Phase.
+When Unei enters the field, choose 1 Forward opponent controls. Dull it. As long as Unei is on the field, it does not activate during its controller's Active Phase.",0.56,Unei,5-027R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-v/unei,Opus V,,left_only,Forward,III Pictlogica,4.0,Ice,Magus,7000.0
+Foil,,0.32,Warrior (Arc),5-013C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-v/warrior-arc,Opus V,,left_only,Forward,III,4.0,Fire,Standard Unit,8000.0
+Foil,"[Y]: Until the end of the turn, Bangaa Thief also becomes 
+a Forward with 7000 power and Brave. You can only 
+use this ability once per turn.",0.25,Bangaa Thief,4-088C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-iv/bangaa-thief,Opus IV,,left_only,Monster,XII Theatrhythm,2.0,Earth,Bangaa,
+Foil,"When your opponent casts a Summon, activate all the 
+Forwards you control.",0.25,Ezel,4-053R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-iv/ezel,Opus IV,,left_only,Forward,FFTA,2.0,Wind,Hermetic,5000.0
+Foil,"[I][Dull]: Search for 1 Card Name Flan and add it to your 
+hand.
+[Dull], put Flan into the Break Zone: Your opponent
+discards 1 card from his/her hand. You can only use this
+ability during your turn.
+
+
+",3.62,Flan,4-043C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-iv/flan,Opus IV,,left_only,Monster,Theatrhythm,1.0,Ice,Flan,
+Foil,"EX BURST Choose 1 Forward you control and 1 Forward opponent controls. Return them to their owners' hand.
+",0.45,Leviathan EX,4-143R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-iv/leviathan-ex,Opus IV,,left_only,Summon,Dissidia,3.0,Water,,
+Foil,"The Card Name Palom you control gains +1000 power.
+Lightning Brain Buster[S][R][Dull], dull 1 active Card Name Rydia: Choose 1 Forward. Deal it 10000 damage.",0.15,Luca,3-023C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/opus-iii/luca,Opus III,,left_only,Backup,IV,2.0,Fire,Engineer,
+Foil,"[Dull], put 1 Forward into the Break Zone: Choose 1 Forward. Deal it damage equal to the power of the Forward put in the Break Zone.",,Amarant,PR-013/3-013R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/amarant,FF: Promo Cards,,left_only,Forward,IX,5.0,Fire,Fighter,9000.0
+Normal,"First Strike
+For each Forward other than Aranea you control, Aranea gains +1000 power.
+Damage 3 — When Aranea enters the field, choose 1 Lightning Forward of cost 2 or less in your Break Zone. Play it onto the field.
+Damage 6 — Aranea gains ""The Forwards you control gain Haste.""",,Aranea,PR-067/11-086L,Legend,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/aranea,FF: Promo Cards,,left_only,Forward,XV,4.0,Lightning,Dragoon,7000.0
+Foil,"When Arecia Al-Rashia enters the field, you may search for 1 Category TYPE-0 Forward and add it to your hand.",,Arecia Al-Rashia,PR-017/3-097R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/arecia-al-rashia,FF: Promo Cards,,left_only,Backup,Type-0,3.0,Lightning,Archsorceress,
+Normal,"You can only pay with CP produced by Backups to cast Bahamut.
+Choose 1 Forward. Deal it 10000 damage. If it is put from the field into the Break Zone this turn, remove it from the game instead.",,Bahamut (Prerelease Promo),PR-043/8-015H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/bahamut-prerelease-promo,FF: Promo Cards,,left_only,Summon,Special,4.0,Fire,,
+Normal,"When Bartz enters the field, choose up to 2 Category V Characters. Activate them.
+Spellblade [S]: Choose 1 Forward. Deal it 5000 damage.
+Dual-Wield [S]: Until the end of the turn, Bartz gains First Strike and Bartz's power becomes 10000.
+Rapid Fire [S]: Until the end of turn, Bartz gains Haste, Brave and ""Bartz can attack 3 times this turn"". You can only use this ability if Bartz used Spellblade and Dual-Wield this turn.",,Bartz (Full Art),PR-083/7-059L,Promo,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/bartz-full-art,FF: Promo Cards,,left_only,Forward,V,3.0,Wind,Warrior of Light,7000.0
+Normal,"When Braska's Final Aeon attacks or is chosen by your opponent's Summons or abilities choose up to 1 Forward the opponent controls. Deal it 10000 damage. This damage cannot be reduced. 
+Discard Braska's Final Aeon: choose 1 Forward. Deal it 10000 damage. You can only use this ability if you control 2 or more Job Summoner Forwards and if Braska's Final Aeon is in your hand. ",,Braska's Final Aeon (Full Art),PR-084/11-015L,Promo,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/braskas-final-aeon-full-art,FF: Promo Cards,,left_only,Forward,X Mobius,7.0,Fire,Final Aeon,10000.0
+Normal,"When Cindy enters the field, you may search for up to 2 Category XV Forwards and add them to your hand.
+[Dull]: Choose 1 Category XV Forward. It gains Brave until the end of the turn.
+[Y][Dull], put Cindy into the Break Zone: Until the end of the turn, all the Category XV Forwards you control gain +3000 power.",,Cindy (Prerelease Promo),PR-068/11-069H,Promo,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/cindy-prerelease-promo,FF: Promo Cards,,left_only,Backup,XV,6.0,Earth,Engineer,
+Normal,"FINAL FANTASY TRADING CARD GAME OPUS I
+Visit sqex.to/FFTCG for all the latest updates!",,Cloud - A-001,A-001,Promo,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/cloud-a-001,FF: Promo Cards,1.0,both,,,,,,
+Foil,"FINAL FANTASY TRADING CARD GAME OPUS I
+Visit sqex.to/FFTCG for all the latest updates!",,Cloud - A-001,A-001,Promo,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/cloud-a-001,FF: Promo Cards,1.0,both,,,,,,
+Normal,"EX BURST When Cloud enters the field, choose 1 Forward opponent controls. If you control a Category VII Forward other than Cloud, deal it 7000 damage.
+Blade Beam [S][R][1][Dull]: Choose 1 Forward opponent controls. Deal it 8000 damage, and deal 4000 damage to all the other Forwards opponent controls.",,Cloud EX (Prerelease Promo),PR-019/4-145H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/cloud-ex-prerelease-promo,FF: Promo Cards,,left_only,Forward,Dissidia VII,3.0,Light,SOLDIER,7000.0
+Normal,"EX BURST When Cloud enters the field, choose 1 Forward opponent controls. Deal it 3000 damage and 1000 more damage for each point of damage you have received.
+When Cloud is put from the field into the Break Zone, you may remove the top 10 cards of your deck from the game. If you do so, return Cloud to the field dull.",,Cloud EX - PR-044/8-006L,PR-044/8-006L,Promo,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/cloud-ex-pr-044-8-006l,FF: Promo Cards,,left_only,Forward,VII,5.0,Fire,SOLDIER,9000.0
+Normal,This card was only printed in Japanese and non-foil.,,Dissidia 3rd Anniversary - A-002,A-002,Promo,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/dissidia-3rd-anniversary-a-002,FF: Promo Cards,1.0,both,,,,,,
+Foil,This card was only printed in Japanese and non-foil.,,Dissidia 3rd Anniversary - A-002,A-002,Promo,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/dissidia-3rd-anniversary-a-002,FF: Promo Cards,1.0,both,,,,,,
+Normal,"When Emet-Selch is chosen by your opponent's Summons or abilities, remove Emet-Selch from the game. If you do so, play Emet-Selch onto the field at the end of the turn. 
+Damage 5 – When Emet-Selch enters the field, you may pay [I]. When you do so, select 1 of the 2 following actions. ""Choose 1 dull Forward. Break it."" 
+""Choose 1 Forward of cost 2 or less in your Break Zone. Play it onto the field."" ",,Emet-Selch (Prerelease Promo),PR-076/12-024H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/emet-selch-prerelease-promo,FF: Promo Cards,,left_only,Forward,XIV,4.0,Ice,Ascian,9000.0
+Normal,This card was only printed in Japanese and non-foil.,,FINAL FANTASY XIV - A-003,A-003,Promo,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/final-fantasy-xiv-a-003,FF: Promo Cards,1.0,both,,,,,,
+Foil,This card was only printed in Japanese and non-foil.,,FINAL FANTASY XIV - A-003,A-003,Promo,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/final-fantasy-xiv-a-003,FF: Promo Cards,1.0,both,,,,,,
+Normal,"For each point of damage you have received, Gabranth gains +1000 power.
+If you have received 6 point of damage or more, Gabranth gains Brave.",,Gabranth (30th Anniversary),PR-008/1-098R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/gabranth-30th-anniversary,FF: Promo Cards,,left_only,Forward,Dissidia XII,6.0,Earth,Judge,8000.0
+Foil,"For each point of damage you have received, Gabranth gains +1000 power.
+If you have received 6 point of damage or more, Gabranth gains Brave.",,Gabranth (30th Anniversary),PR-008/1-098R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/gabranth-30th-anniversary,FF: Promo Cards,,left_only,Forward,Dissidia XII,6.0,Earth,Judge,8000.0
+Normal,"[Promotion] Check out our official website for more details! 
+https://fftcg.square-enix-games.com/",625.0,Golbez/Cecil - A-004,A-004,Promo,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/golbez-cecil-a-004,FF: Promo Cards,1.0,both,,,,,,
+Foil,"[Promotion] Check out our official website for more details! 
+https://fftcg.square-enix-games.com/",,Golbez/Cecil - A-004,A-004,Promo,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/golbez-cecil-a-004,FF: Promo Cards,1.0,both,,,,,,
+Normal,"Brave
+For each Category II Character other than Guy you 
+control, Guy gains +1000 power.
+When Guy is put from the field into the Break Zone, 
+activate all the Forwards you control.",,Guy (Prerelease Promo),PR-031/6-003H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/guy-prerelease-promo,FF: Promo Cards,,left_only,Forward,II,3.0,Fire,Rebel,7000.0
+Normal,"When Hraesvelgr enters the field, select 1 of the 3 following actions.
+""Skip your opponent's Attack Phase in their next turn. Remove the top 5 cards of your deck from the game.""
+""Choose 1 Character in your Break Zone. Add it to your hand.""
+""Remove all the cards in your opponent's Break Zone from the game.""",,Hraesvelgr (Full Art),PR-048/6-127L,Legend,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/hraesvelgr-full-art,FF: Promo Cards,,left_only,Forward,XIV,6.0,Light,The First Brood,9000.0
+Normal,"Before paying the cost to play Kain onto the field, you may put 1 active Lightning Backup you control into the Break Zone. If you do so, the cost for playing Kain onto the field is reduced by 5.
+When Kain enters the field, choose 1 Forward opponent controls. It loses 8000 power until the end of the turn.",,Kain - PR-070/9-084H (Full Art),PR-070,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/kain-pr-070-9-084h-full-art,FF: Promo Cards,,left_only,Forward,IV Lord of Vermilion,8.0,Lightning,Dragoon,8000.0
+Foil,"Before paying the cost to play Kain onto the field, you may put 1 active Lightning Backup you control into the Break Zone. If you do so, the cost for playing Kain onto the field is reduced by 5.
+When Kain enters the field, choose 1 Forward opponent controls. It loses 8000 power until the end of the turn.",16.95,Kain - PR-070/9-084H (Full Art),PR-070,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/kain-pr-070-9-084h-full-art,FF: Promo Cards,,left_only,Forward,IV Lord of Vermilion,8.0,Lightning,Dragoon,8000.0
+Normal,"When Lasswell enters the field, choose 1 dull Forward. Deal it 5000 damage. If you control 5 or more Ice Characters, deal it 7000 damage instead.",,Lasswell,PR-040/7-042H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/lasswell,FF: Promo Cards,,left_only,Forward,FFBE,2.0,Ice,Knight,4000.0
+Foil,"When Lasswell enters the field, choose 1 dull Forward. Deal it 5000 damage. If you control 5 or more Ice Characters, deal it 7000 damage instead.",49.99,Lasswell,PR-040/7-042H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/lasswell,FF: Promo Cards,,left_only,Forward,FFBE,2.0,Ice,Knight,4000.0
+Normal,"Haste
+At the and of the turn, return Lightning to its owner's hand.
+
+Opus V Prerelease",,Lightning (Prerelease Promo),PR-027/5-116H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/lightning-prerelease-promo,FF: Promo Cards,,left_only,Forward,Dissidia XIII,2.0,Lightning,Commando,5000.0
+Foil,"EX BURST When Lightning enters the field, choose 1 Card Name Odin in your Break Zone. You may put it on top of your deck. 
+Gestalt Drive 1[S][P][1][Dull], discard 1 Card Name Odin: Choose up to 2 Forwards of cost 4 or less. Break them.",,Lightning EX,PR-022/3-118H,Promo,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/lightning-ex,FF: Promo Cards,,left_only,Forward,Dissidia XIII,5.0,Lightning,Warrior,8000.0
+Normal,"When Nael enters the field, reveal the top 3 cards of your deck. Add up to 2 Forwards among them to your hand and put the rest of the cards into the Break Zone.
+Remove 1 Backup from the game: Until the end of the turn, Nael gains +2000 power and Haste.
+Remove 2 Backups from the game: Choose 1 Forward. Deal it 8000 damage.",,Nael,PR-052/9-014L,Promo,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/nael,FF: Promo Cards,,left_only,Forward,XIV,6.0,Fire,General,9000.0
+Foil,"When Nine attacks, choose 1 Forward you control.
+Until the end of the turn, it gains +1000 power for each Job Class Zero Cadet Forward you control.
+Primal Roar [S][P][P][P][P]: All Forwards cannot block this turn.",,Nine - 3-113R,PR-018/3-113R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/nine-3-113r,FF: Promo Cards,,left_only,Forward,Type-0,4.0,Lightning,Class Zero Cadet,8000.0
+Normal,"EX BURST When you receive damage, choose up to 1 Forward. If you have received 6 points of damage, break it.
+When you receive damage, choose up to 1 Forward opponent controls. Noctis and the chosen Forward deal damage equal to their respective power to the other.
+[Y][Y][(2)]: During this turn, the next damage dealt to Noctis becomes 0 instead. ",,Noctis EX (2nd Anniversary),PR-039/7-077L,Legend,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/noctis-ex-2nd-anniversary,FF: Promo Cards,,left_only,Forward,XV DFF,3.0,Earth,Prince,7000.0
+Foil,"For each card in your hand, Quina gains +1000 power.
+Eat[S]: Choose 1 Forward opponent controls which has been dealt damage this this turn. If that Forward has a special ability or an action ability, break it.",,Quina,PR-014/3-133C,Common,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/quina,FF: Promo Cards,,left_only,Forward,IX,4.0,Water,Blue Mage,5000.0
+Foil,"EX BURST When Rem enters the field, choose 1 Category TYPE-0 card from your Break Zone. Add it to your hand.",,Rem EX,PR-016/3-072R,Rare,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/rem-ex,FF: Promo Cards,,left_only,Backup,Type-0,4.0,Wind,Class Zero Cadet,
+Normal,"Back Attack
+When Sephiroth enters the field, choose 1 Forward. Dull it.
+Damage 5 — Sephiroth gains +2000 power.
+Draw Slash [S]: Until the end of the turn, Sephiroth gains +1000 power and First Strike.",,Sephiroth (Full Art),PR-082/10-034H,Promo,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/sephiroth-full-art,FF: Promo Cards,,left_only,Forward,VII,3.0,Ice,War Hero,6000.0
+Normal,"When Squall enters the field, choose 1 Character. If your opponent has 2 cards or less in his/her hand, dull it.
+Damage 2 — When Squall enters the field, choose 1 Character. Dull it and Freeze it.
+Damage 5 — When Squall enters the field, choose 1 Forward. If it is dull, deal it 8000 damage.",,Squall,PR-060/10-033L,Legend,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/squall,FF: Promo Cards,,left_only,Forward,VIII DFF,3.0,Ice,SeeD Candidate,7000.0
+Normal,"The Category X Forwards other than Tidus you control gain +1000 power.
+When Tidus enters the field, you may return 1 Backup you control to its owner's hand. When you do so, choose 1 Forward. Return it to its owner's hand.
+Quick Hit [S]: Activate Tidus. Tidus gains +2000 power until the end of the turn.",,Tidus (Prerelease Promo),PR-061/10-117H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/tidus-prerelease-promo,FF: Promo Cards,,left_only,Forward,X DFF,4.0,Water,Guardian,8000.0
+Normal,"If you control a Card Name Cloud Forward, the cost for playing Tifa onto the field is reduced by 2.
+Brave
+Final Heaven [S][Y][Dull]: Choose 1 dull Forward. Deal it 10000 damage.",,Tifa,8-144S,Promo,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/tifa,FF: Promo Cards,,left_only,Forward,VII,4.0,Earth,Martial Artist,8000.0
+Normal,"When Vincent enters the field, you may put 1 Backup you control into the Break Zone. When you do so, choose 1 dull Forward. Deal it 8000 damage.
+Zoom [S][Y][(1)][Dull]: Choose 1 Backup of cost 3 or more.",,Vincent (Prerelease Promo),9-062H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/vincent-prerelease-promo,FF: Promo Cards,,left_only,Forward,VII,3.0,Earth,Gunslinger,7000.0
+Foil,The Job Standard Unit Forwards you control gain +2000 power and First Strike.,,Warrior of Light (Water),PR-020/1-155R,Promo,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/warrior-of-light-water,FF: Promo Cards,,left_only,Forward,Dissidia I,4.0,Water,Warrior,8000.0
+Normal,"Y'shtola doesn't receive any damage from Summons or abilities.
+Put Y'shtola into the Break Zone: Choose 1 Summon or auto-ability. Cancel its effect.",,Y'shtola,PR-047/5-068L,Promo,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/yshtola,FF: Promo Cards,,left_only,Forward,XIV,3.0,Wind,Scion of the Seventh Dawn,7000.0
+Normal,"Y'shtola doesn't receive any damage from Summons or abilities.
+Put Y'shtola into the Break Zone: Choose 1 Summon or auto-ability. Cancel its effect.
+
+This promo card is only available in Chinese Language currently.",,Y'shtola (Chinese Language Only),PR-028/5-068L,Legend,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/yshtola-chinese-language-only,FF: Promo Cards,,left_only,Forward,XIV,3.0,Wind,Scion of the Seventh Dawn,7000.0
+Normal,"When Yuna enters the field, if a Forward you controlled formed a party this turn, draw 2 cards.
+When Yuna forms a party and attacks, choose 1 Forward. It loses 4000 power for each attacking Forward until the end of the turn.
+[0]: Name 1 Element other than Light or Dark. Yuna becomes the named Element until the end of the turn. You can only use this ability once per turn.",,Yuna (Buy A Box Promo),PR-075/12-105L,Legend,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/yuna-buy-a-box-promo,FF: Promo Cards,,left_only,Forward,X,3.0,Water,Gullwings,7000.0
+Normal,"Yuri has all Elements except Dark.
+Dull a total of 3 active Backups of the same Element or 2 active Backups of the same Element and Yuri: Select 1 1of the 4 following actions.
+""Draw 1 card.""
+""Choose 1 Forward. Deal it 4000 damage."" 
+""Choose 1 Forward. Dull it and Freeze it.""
+""Choose 1 Forward. It loses all its abilities until the end of the turn.""",,Yuri (Prerelease Promo),PR-036/7-128H,Hero,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/yuri-prerelease-promo,FF: Promo Cards,,left_only,Forward,FFCC,4.0,Light,Lay Crystal User,8000.0
+Normal,"When Zack or a Fire Forward enters your field, choose 1 Forward opponent controls. Deal it 2000 damage. 
+When Zack or a Category VII Forward enters your field, choose 1 Forward opponent controls. Deal it 2000 damage.
+
+FAN EVENT 2020 promo card",,Zack - PR071/007H,PR071/007H,Promo,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/zack-pr071-007h,FF: Promo Cards,,left_only,Forward,VII,4.0,Fire,SOLDIER,8000.0
+Foil,"When Zack or a Fire Forward enters your field, choose 1 Forward opponent controls. Deal it 2000 damage. 
+When Zack or a Category VII Forward enters your field, choose 1 Forward opponent controls. Deal it 2000 damage.
+
+FAN EVENT 2020 promo card",,Zack - PR071/007H,PR071/007H,Promo,,https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/zack-pr071-007h,FF: Promo Cards,,left_only,Forward,VII,4.0,Fire,SOLDIER,8000.0
